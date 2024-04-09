@@ -1,6 +1,7 @@
 # Electrical-Faults-Detection-and-Classification-using-Machine-Learning
 This project focuses on developing a machine learning model to classify various electrical fault types in a transmission line. The model utilizes voltage and current measurements as inputs to identify and categorize faults such as open-circuit faults, single-line-to-ground faults, line-to-line faults, and three-phase faults.
 
+
 ![transmition](https://github.com/AoufNihed/Electrical-Faults-Detection-and-Classification-using-Machine-Learning/assets/112959070/169fac9c-c855-4d0a-8cab-26d764288b9a)
 The reliable and efficient operation of power systems is crucial for modern society. However, these systems are susceptible to various electrical faults that can disrupt power delivery, damage equipment, and pose safety hazards. Early detection and accurate classification of these faults are essential for minimizing downtime, ensuring equipment protection, and maintaining system stability.
 
